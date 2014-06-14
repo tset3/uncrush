@@ -1,6 +1,6 @@
 #!/bin/sh
 
-pngcrush_loc="/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/pngcrush"
+pngcrush_loc="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/pngcrush"
 
 for file in *
 do
